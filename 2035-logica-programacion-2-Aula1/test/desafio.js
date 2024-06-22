@@ -131,6 +131,5 @@ function calcularCuadrados(listaNumeros) {
     return listaCuadrados;
 }
 
-// Ejemplo de uso
 let listaDeCuadrados = calcularCuadrados(listaDeNumeros);
-console.log(listaDeCuadrados); // Esto imprimirá: [1, 4, 9, 16, 25]
+console.log(listaDeCuadrados);
